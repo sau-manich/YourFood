@@ -1,0 +1,19 @@
+{
+    "name": "YOUR FOOD",
+    "short_name": "YOUR FOOD",
+    "description": "Bienvenido a YOUR FOOD :)",
+    "background_color": "#394044",
+    "theme_color": "#394044",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "img/ico.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      }
+    ]
+  }
